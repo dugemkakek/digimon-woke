@@ -1,0 +1,26 @@
+{
+  "name": "digimon",
+  "version": "0.0.1",
+  "description": "可以帮助开发者快速开发的Digimon类库，包含有常用的 正则验证、工具函数等",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Boss-Os/digimon.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "node",
+    "tool",
+    "utils"
+  ],
+  "author": "JBoss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J-Boss-Os/digimon/issues"
+  },
+  "homepage": "https://github.com/J-Boss-Os/digimon#readme"
+}
