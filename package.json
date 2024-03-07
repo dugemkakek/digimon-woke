@@ -1,5 +1,5 @@
 {
-  "name": "digimon",
+  "name": "digimon woke",
   "version": "0.0.1",
   "description": "Repo For Digimon Freak and Woke Individual",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "tool",
     "utils"
   ],
-  "author": "JBoss",
+  "author": "dugemkakek",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dugemkakek/digimon-woke/issues"
